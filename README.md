@@ -16,3 +16,7 @@ There are specific instructions given for each task, present in the `Polyphasic`
 * For every notebook that you make, you need to ensure that you upload the same in the respective folder(pertaining to the task), if you want you can create multiple files for different methods used.
 * For tasks where you have to generate data, make sure you are keeping them in different folders, and are referencing them from the Jupyter notebooks. (For example, if you are making embeddings with TF-IDF and BOW, keep the embeddings in a `Embeddings_TF-IDF` folder and `Embeddings_BOW` folder respectively.
 * If you are facing any issues, feel free to ask on the Recruitments group or message any senior in the group.
+
+## Guide for the reviewer
+* The solution notebooks have been developed on googlecolab.
+* Embeddings_GloVe contains the notebook as well as the csv file with a few simple test words for the task '2A'.
