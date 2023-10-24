@@ -14,3 +14,6 @@ Different forms of experimentation and architectural model building are encouran
 - [What are word embeddings?](https://machinelearningmastery.com/what-are-word-embeddings/)
 - [Guide to generating word embeddings](https://www.tensorflow.org/text/guide/word_embeddings)
 - [Introduction to Word Embeddings](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)
+
+# Candidate solution:
+Using the a pretrained and highly accurate GloVe model with a vocabulary of 400k words from wikipedia, a set of word embeddings have been generated.
